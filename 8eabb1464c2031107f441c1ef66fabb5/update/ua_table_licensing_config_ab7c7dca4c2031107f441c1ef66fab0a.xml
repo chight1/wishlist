@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_wishlist_wish_item</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 18:59:42</sys_created_on>
+        <sys_id>ab7c7dca4c2031107f441c1ef66fab0a</sys_id>
+        <sys_name>x_snc_wishlist_wish_item</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">8eabb1464c2031107f441c1ef66fabb5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">8eabb1464c2031107f441c1ef66fabb5</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ab7c7dca4c2031107f441c1ef66fab0a</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>
